@@ -1,8 +1,8 @@
 <?php
 // Database connection settings
 $host = 'localhost';
-$dbname = 'if0_36417805_Reservation';
-$username = 'if0_36417805';
+$dbname = 'reservation';
+$username = 'root';
 $password = '';
 
 // Establish database connection using PDO
